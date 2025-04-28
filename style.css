@@ -1,0 +1,44 @@
+body {
+  text-align: center;
+}
+
+/* description of each button */
+.btn {
+  height: 170px;
+  width: 170px;
+  border-radius: 20%;
+  border: 10px solid black;
+  margin: 1.2rem;
+}
+
+/* to diplay buttons in one line */
+.btn-container {
+  display: flex;
+  justify-content: center;
+}
+
+.yellow {
+  background-color: #f99b45;
+}
+
+.red {
+  background-color: #d95980;
+}
+
+.purple {
+  background-color: #819ff9;
+}
+
+.green {
+  background-color: #63aac0;
+}
+
+/* to change the color of the btn when it's flashed */
+.flash {
+  background-color: white;
+}
+
+/* after user press the button, diff color appears */
+.userflash {
+  background-color: green;
+}
