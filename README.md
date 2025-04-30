@@ -34,3 +34,9 @@ To run the game locally:
 1. Clone the repository
    ```bash
    git clone https://github.com/bidipta2005/Simon-Says-Game.git
+
+To run the game online:
+
+1. Visit the link below:
+   ```bash
+   https://bidipta2005.github.io/Simon-Says-Game/
