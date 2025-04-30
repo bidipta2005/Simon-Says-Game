@@ -1,4 +1,4 @@
-Built Simon Says game with HTML, CSS and JavaScript. Play the game and have fun.
+<!-- Built Simon Says game with HTML, CSS and JavaScript. Play the game and have fun. -->
 
 # Simon Says Game 
 
